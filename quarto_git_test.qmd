@@ -13,6 +13,9 @@ When you click the **Render** button a document will be generated that includes 
 ```{r}
 1 + 1
 t <- 5*2
+x <- 1:3
+y <- 4:6
+plot(x,y)
 ```
 
 You can add options to executable code like this
